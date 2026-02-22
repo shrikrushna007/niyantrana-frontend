@@ -1,5 +1,7 @@
 # Niyantrana UI
 
+**Live Deployment:** https://niyantrana.shrikrushna.me/
+
 A modern React application for health monitoring and risk assessment, built with Vite, Tailwind CSS, and Clerk authentication.
 
 ## Features
