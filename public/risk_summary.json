@@ -1,0 +1,55 @@
+{
+  "risk": {
+    "metabolic": {
+      "score": 0.515,
+      "band": "moderate",
+      "confidence": "high",
+      "trend": "stable"
+    },
+    "liver": {
+      "score": 0.165,
+      "band": "low",
+      "confidence": "high",
+      "trend": "stable"
+    },
+    "cardio": {
+      "score": 0.454,
+      "band": "moderate",
+      "confidence": "high",
+      "trend": "stable"
+    },
+    "mental": {
+      "score": 0.311,
+      "band": "moderate",
+      "confidence": "high",
+      "trend": "stable"
+    }
+  },
+  "explanations": [
+    "Your metabolic risk is **moderate** (0.515).",
+    "Metabolic risk has remained stable.",
+    "Your liver risk is **low** (0.165).",
+    "Liver risk has remained stable.",
+    "Your cardio risk is **moderate** (0.454).",
+    "Cardio risk has remained stable.",
+    "Your mental risk is **moderate** (0.311).",
+    "Mental risk has remained stable.",
+    "Main recent contributors:",
+    "- sedentary 4w avg changed by -31.25",
+    "- resting hr 4w avg changed by -3.14",
+    "- night hr 4w avg changed by -3.14",
+    "This is a preventive risk signal, not a medical diagnosis."
+  ],
+  "completeness": {
+    "score": 73.3,
+    "watch_days": 28,
+    "lab_points": 5,
+    "feature_coverage": 100.0
+  },
+  "confidence_progression": {
+    "start": 66.7,
+    "end": 73.3,
+    "delta": 6.6,
+    "message": "Confidence increased from 66.7% to 73.3% over the last 14 days."
+  }
+}
